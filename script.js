@@ -12,7 +12,7 @@ var preloader = document.getElementById("loading");
 let api;
 function myFunction() {
          preloader.style.display = 'none';
-         setTimeout(5);
+         
     }
 
 
