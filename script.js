@@ -13,6 +13,7 @@ let api;
 function myFunction() {
          preloader.style.display = 'none';
          
+         
     }
 
 
